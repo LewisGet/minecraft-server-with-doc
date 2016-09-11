@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/lewis/.m2/repository/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.jar;C:/Users/lewis/.m2/repository/org/avaje/ebean/2.7.3/ebean-2.7.3.jar;C:/Users/lewis/.m2/repository/org/yaml/snakeyaml/1.9/snakeyaml-1.9.jar;C:/Users/lewis/.m2/repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar;C:/Users/lewis/.m2/repository/javax/persistence/persistence-api/1.0/persistence-api-1.0.jar;C:/Users/lewis/.m2/repository/com/google/guava/guava/10.0/guava-10.0.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/lewis/Desktop/code/Bukkit/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2016. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/lewis/Desktop/code/Bukkit/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Bukkit 0.0.1-SNAPSHOT API'
+-linkoffline
+'http://docs.oracle.com/javase/1.5.0/docs/api' 'C:/Users/lewis/Desktop/code/Bukkit/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Bukkit 0.0.1-SNAPSHOT API'

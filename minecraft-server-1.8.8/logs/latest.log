@@ -1,0 +1,4 @@
+[02:10:23] [User Authenticator #2/INFO]: UUID of player misaki_Aki is 4cad8b5a-f32a-4f99-a4ed-482f4672d1be
+[02:10:23] [Server thread/INFO]: misaki_Aki[/127.0.0.1:3750] logged in with entity id 58386 at ([world_nether]-788.1921833988732, 44.0, -71.64721972200957)
+[02:19:50] [Server thread/INFO]: misaki_Aki lost connection: Internal Exception: java.io.IOException: 遠端主機已強制關閉一個現存的連線。
+[02:19:50] [Server thread/INFO]: misaki_Aki left the game.
